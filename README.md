@@ -1,4 +1,4 @@
-SyntactingParsing 
+SyntacticParsing 
 ======================
 
 This project is very useful for using the stanford parser to generate syntantic parse tree from sentences.  
