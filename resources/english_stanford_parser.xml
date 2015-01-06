@@ -1,0 +1,10 @@
+<configuration >
+  <preference name="port" value="5556" />
+ 
+   <preference name="postagger" value="resources/stanfordparser/models/pos-tagger/en/english-left3words-distsim.tagger" />
+    <preference name="lexparser" value="resources/stanfordparser/models/lexparser/en/englishPCFG.ser.gz" />
+    
+     <preference name="maxLength" value="80" />
+     <preference name="sentences" value="\n" />
+</configuration>
+
